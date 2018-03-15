@@ -44,4 +44,7 @@ def factorial(n: Int) = {
   step(1, n)
 }
 
+def x: Double = 2
+x + 1
+
 factorial(10)

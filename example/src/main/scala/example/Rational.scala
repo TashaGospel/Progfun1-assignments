@@ -1,4 +1,4 @@
-package week3
+package example
 
 class Rational(x: Int, y: Int) {
   require(y != 0, "denominator must be nonzero")
@@ -10,7 +10,7 @@ class Rational(x: Int, y: Int) {
   val numer = x
   val denom = y
 
-  def + (that: Rational) =
+  def +(that: Rational) =
     new Rational(
       numer * that.denom + denom * that.numer,
       denom * that.denom
@@ -18,9 +18,9 @@ class Rational(x: Int, y: Int) {
 
   def unary_- = new Rational(-numer, denom)
 
-  def - (that: Rational) = this + -that
+  def -(that: Rational) = this + -that
 
-  def < (that: Rational) = numer * that.denom < denom * that.numer
+  def <(that: Rational) = numer * that.denom < denom * that.numer
 
   def max(that: Rational) = if (<(that)) that else this
 
@@ -29,11 +29,3 @@ class Rational(x: Int, y: Int) {
     numer / g + "/" + denom / g
   }
 }
-
-val a = new Rational(1, 2)
-val b = new Rational(2, 3)
-a.max(b)
-a + b
-a < b
-
-class Rational2(val numer: Int, val denom: Int)

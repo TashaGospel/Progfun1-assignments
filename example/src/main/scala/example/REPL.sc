@@ -28,7 +28,7 @@ def sqrt(x: Double): Double = {
 }
 
 sqrt(4)
-sqrt(1e-60)
+sqrt(2e-60)
 sqrt(1e60)
 
 def foo(x: Int) = x + 1
@@ -45,6 +45,6 @@ def factorial(n: Int) = {
 }
 
 def x: Double = 2
-x + 1
+x + 2
 
 factorial(10)

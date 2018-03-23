@@ -25,7 +25,7 @@ def getNull: String = null
 
 if (true) 1 else false
 
-def singleton[T](elem: T) = new Cons[T](elem, new Nil[T])
+def singleton[T](elem: T) = new Cons[T](elem, Nil[T])
 
 singleton[Int](1).head
 singleton("Hello").head
@@ -36,4 +36,3 @@ def nth[T](list: List[T], n: Int): T =
   else nth(list.tail, n - 1)
 
 nth(new Cons(1, new Cons(2, singleton(3))), -1)
-

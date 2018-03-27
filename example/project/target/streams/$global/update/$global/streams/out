@@ -1,4 +1,4 @@
-[info] Updating {file:/home/alanspringfield/Desktop/progfun1/example/project/}example-build...
+[info] Updating {file:/C:/Applications/Cygwin/home/nhanh/Progfun1-assignments/example/project/}example-build...
 [debug] :: resolving dependencies :: default#example-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -11518,19 +11518,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 5997ms :: artifacts dl 114ms
-[debug] 	report for default#example-build;0.1-SNAPSHOT compile produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-compile.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT runtime produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-runtime.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT test produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-test.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT provided produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-provided.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT optional produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-optional.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT compile-internal produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-compile-internal.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT runtime-internal produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-runtime-internal.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT test-internal produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-test-internal.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT plugin produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-plugin.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT sources produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-sources.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT docs produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-docs.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT pom produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-pom.xml
-[debug] 	report for default#example-build;0.1-SNAPSHOT scala-tool produced in /home/alanspringfield/Desktop/progfun1/example/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-example-build-scala-tool.xml
-[debug] 	resolve done (5997ms resolve - 114ms download)
+[debug] :: resolution report :: resolve 1552ms :: artifacts dl 62ms
+[debug] 	report for default#example-build;0.1-SNAPSHOT compile produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-compile.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT runtime produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-runtime.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT test produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-test.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT provided produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-provided.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT optional produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-optional.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT compile-internal produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-compile-internal.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT runtime-internal produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-runtime-internal.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT test-internal produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-test-internal.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT plugin produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-plugin.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT sources produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-sources.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT docs produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-docs.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT pom produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-pom.xml
+[debug] 	report for default#example-build;0.1-SNAPSHOT scala-tool produced in C:\Applications\Cygwin\home\nhanh\Progfun1-assignments\example\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-example-build-scala-tool.xml
+[debug] 	resolve done (1552ms resolve - 62ms download)
 [info] Done updating.

@@ -29,7 +29,3 @@ object List {
 
   def apply[T](): List[T] = Nil
 }
-
-object test {
-  val x: List[String] = Nil
-}

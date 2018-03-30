@@ -1,5 +1,3 @@
-import example.List
-
 List(List(1, 0, 0), List(0, 1, 0), List(0, 0, 1))
 1 :: 2 :: Nil
 
